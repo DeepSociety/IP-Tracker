@@ -1,7 +1,7 @@
 # IP-Tracker
 
 <p align="center">
-<a href="#"><img title="IP-Tracker" src="https://emailspoofbyharris.000webhostapp.com/pro/ipt.png"></a>
+<a href="#"><img title="IP-Tracker" src="https://emailspoofbyharris.000webhostapp.com/pro/ipt.jpg"></a>
 </p>
 
 <p align="center">
