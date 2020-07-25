@@ -11,12 +11,11 @@ rm -rf infoip
 fi
 clear
 trap bye EXIT
-echo -e "\e[1;92m"
-echo -e '
+echo -e '\e[1;92m
 ._____________
 |   \______   \
-|   ||     ___/ \e[1;92mcreate \e[1;39mby HiddenStar😛
-|   ||    |     \e[1;39mhttps://github.com/HiddenSt4r\e[1;92m
+|   ||     ___/ create \e[1;39mby HiddenStar😛
+|   ||    |     https://github.com/HiddenSt4r\e[1;92m
 |___||____|
 ___________                     __
 \__    ___/___________    ____ |  | __ ___________ 
