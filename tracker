@@ -1,4 +1,4 @@
-#Create by https://github.com/HiddenSt4r
+#Create by https://github.com/DeepSociety
 #Si copias deja creditos 😛
 
 v="\e[1;92m"
@@ -14,8 +14,8 @@ trap bye EXIT
 echo -e '\e[1;92m
 ._____________
 |   \______   \
-|   ||     ___/ create \e[1;39mby HiddenStar😛
-|   ||    |     https://github.com/HiddenSt4r/IP-Tracker\e[1;92m
+|   ||     ___/ create \e[1;39mby DeepSociety
+|   ||    |     https://github.com/DeepSociety/IP-Tracker\e[1;92m
 |___||____|
 ___________                     __
 \__    ___/___________    ____ |  | __ ___________ 
@@ -36,8 +36,8 @@ fi
 }
 
 bye(){
-echo -e "\n$v[$b*$v]$b Create by HiddenStar😛
-$v[$b*$v]$b https://github.com/HiddenSt4r"
+echo -e "\n$v[$b*$v]$b Create by DeepSociety
+$v[$b*$v]$b https://github.com/DeepSociety"
 }
 
 dates_ip(){
